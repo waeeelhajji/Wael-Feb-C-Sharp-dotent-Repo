@@ -1,0 +1,15 @@
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\bin\Debug\net6.0\FirstCsharpApp.exe
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\bin\Debug\net6.0\FirstCsharpApp.deps.json
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\bin\Debug\net6.0\FirstCsharpApp.runtimeconfig.json
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\bin\Debug\net6.0\FirstCsharpApp.dll
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\bin\Debug\net6.0\FirstCsharpApp.pdb
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\obj\Debug\net6.0\FirstCsharpApp.csproj.AssemblyReference.cache
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\obj\Debug\net6.0\FirstCsharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\obj\Debug\net6.0\FirstCsharpApp.AssemblyInfoInputs.cache
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\obj\Debug\net6.0\FirstCsharpApp.AssemblyInfo.cs
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\obj\Debug\net6.0\FirstCsharpApp.csproj.CoreCompileInputs.cache
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\obj\Debug\net6.0\FirstCsharpApp.dll
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\obj\Debug\net6.0\refint\FirstCsharpApp.dll
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\obj\Debug\net6.0\FirstCsharpApp.pdb
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\obj\Debug\net6.0\FirstCsharpApp.genruntimeconfig.cache
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\FirstCsharpApp\obj\Debug\net6.0\ref\FirstCsharpApp.dll
