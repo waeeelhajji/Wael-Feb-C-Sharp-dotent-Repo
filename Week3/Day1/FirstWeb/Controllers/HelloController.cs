@@ -29,6 +29,21 @@ public class HelloController  : Controller //! remember inheritance
         return $"this is user number {id}";
     }
 
+    [HttpPost("process")]
+    public IActionResult Process (string FavoriteAnimal)
+    {
+        if(FavoriteAnimal == "cat")
+        {
+            ViewBag.Error = "Cats are great but pick something else";
+            ViewBag.Name = "Wael";
+            ViewBag.Number = 7;
+           return View("Index");
+        }
+
+        Console.WriteLine(FavoriteAnimal);
+        return RedirectToAction("Index");
+    }
+
 
 }   
 

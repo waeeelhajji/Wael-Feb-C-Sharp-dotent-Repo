@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
+    <link rel="stylesheet" href="~/css/style.css">
 </head>
 <body>
     <h1>Hello , @ViewBag.Name from the View File</h1>
@@ -14,6 +15,26 @@
             <p>the number is  @i </p>
         }
     }
+
+    <form action="process" method="post">
+        <label for="FavoriteAnimal"> Tell me your favorite animal </label>
+        <input type="text" name="FavoriteAnimal">
+        <input type="submit" value="Submit">
+        <span>
+            @{
+                if(ViewBag.Error == null)
+                {
+                    <p></p>
+                }
+                else 
+                {
+                    <p> @ViewBag.Error </p>
+                    <img src="~/images/cat.jpg" alt="cat">
+                }
+
+            }
+        </span>
+    </form>
     
 </body>
 </html>

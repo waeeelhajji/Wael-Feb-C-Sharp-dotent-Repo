@@ -21,3 +21,4 @@ C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\Week3\Day1\FirstWeb
 C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\Week3\Day1\FirstWeb\obj\Debug\net6.0\ref\FirstWeb.dll
 C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\Week3\Day1\FirstWeb\obj\Debug\net6.0\FirstWeb.RazorAssemblyInfo.cache
 C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\Week3\Day1\FirstWeb\obj\Debug\net6.0\FirstWeb.RazorAssemblyInfo.cs
+C:\Users\waelh\OneDrive\Desktop\Wael-Feb-C-Sharp-dotent-Repo\Week3\Day1\FirstWeb\bin\Debug\net6.0\FirstWeb.staticwebassets.runtime.json

@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "HDZ16zbVj5jtIXSvV9d/xuX4LsVX1OGWtVinLwHSn+4=",
+  "Hash": "i1CZT38LKSJcCg+MdA+x0s4a8ENkjtWvkrSAn6ndQBI=",
   "Source": "FirstWeb",
   "BasePath": "_content/FirstWeb",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "FirstWeb\\wwwroot",
+      "Source": "FirstWeb",
+      "ContentRoot": "C:\\Users\\waelh\\OneDrive\\Desktop\\Wael-Feb-C-Sharp-dotent-Repo\\Week3\\Day1\\FirstWeb\\wwwroot\\",
+      "BasePath": "_content/FirstWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\waelh\\OneDrive\\Desktop\\Wael-Feb-C-Sharp-dotent-Repo\\Week3\\Day1\\FirstWeb\\wwwroot\\css\\style.css",
+      "SourceId": "FirstWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\waelh\\OneDrive\\Desktop\\Wael-Feb-C-Sharp-dotent-Repo\\Week3\\Day1\\FirstWeb\\wwwroot\\",
+      "BasePath": "_content/FirstWeb",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
 }
