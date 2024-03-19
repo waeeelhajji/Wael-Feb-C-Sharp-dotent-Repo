@@ -8,6 +8,8 @@ public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
 
+    public static List<Pet> Pets = new List<Pet>();
+
     public HomeController(ILogger<HomeController> logger)
     {
         _logger = logger;
@@ -30,14 +32,35 @@ public class HomeController : Controller
     }
 
 
-    [HttpPost("Process")]
-    public IActionResult Process(string Name,string Species,int Age)
+    // [HttpPost("Process")]
+    // public IActionResult Process(string Name,string Species,int Age)
 
+    // {
+    //     Console.WriteLine($"Name   : {Name}");
+    //     Console.WriteLine($"Species   : {Species}");
+    //     Console.WriteLine($"Age   : {Age}");
+    //     return View("success");
+    // }
+
+    [HttpPost("pet/create")]
+    public IActionResult Create(Pet newPet)
     {
-        Console.WriteLine($"Name   : {Name}");
-        Console.WriteLine($"Species   : {Species}");
-        Console.WriteLine($"Age   : {Age}");
-        return View("success");
+        if(ModelState.IsValid)
+        {
+            //Add that Pet
+            Pets.Add(newPet);
+            return RedirectToAction("AllPets");
+
+        }else{
+
+        return View("Index");             
+        }
+
+    }
+    [HttpGet("AllPets")]
+    public IActionResult AllPets()
+    {
+        return View("AllPets",Pets);
     }
     
     [HttpGet("success")]
